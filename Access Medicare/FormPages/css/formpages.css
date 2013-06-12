@@ -1,0 +1,40 @@
+/* 
+    Document   : formpages
+    Created on : May 20, 2013, 12:34:08 PM
+    Author     : Cristhian Fierro
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+    font-size:11pt;	
+    font-family:Verdana, "Trebuchet MS", Arial, Helvetica, sans-serif; 
+    color:#800000;
+    background-color: #FFF;
+}
+
+.wrapper, .footer_doc{
+    margin: 0 auto;
+    width: 893px;
+    text-align:left;
+}
+
+.content_font_forms, .footer_doc {
+    color: #000000;
+    margin: 0 auto;
+    width: 893px;
+}
+
+li { margin: 10px 0px; }
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 16%;
+    
+}
+
+.Title_Centered {
+    text-align:center;
+}
