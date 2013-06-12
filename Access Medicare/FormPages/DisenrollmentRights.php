@@ -1,7 +1,3 @@
-<!--
-To change this template, choose Tools | Templates
-and open the template in the editor.
--->
 <!DOCTYPE html>
 <html>
     <head>
@@ -22,8 +18,9 @@ and open the template in the editor.
                 </map>
                 
                 <div>&nbsp;</div>
-                
-                
+                            <!-- Menu  -->
+                    <!--#include virtual="./includes/menu_english.shtml" --> 
+                            <!-- End Menu  -->
                 <div>&nbsp;</div>           
                 
             </div>                
